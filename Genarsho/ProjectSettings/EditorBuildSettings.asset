@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: d0e4985acb19c3144a0c1078fb6b2ea5
+  - enabled: 0
+    path: Assets/Scenes/KristianScene.unity
+    guid: 846b03aa031a05a4ca7a0b4a5eab4b75
+  - enabled: 0
+    path: Assets/Scenes/Janus fun corner.unity
+    guid: e273230b74dda204ba3fb52ead5951c7
+  - enabled: 0
+    path: Assets/Scenes/CasperScene.unity
+    guid: 5af23e8f3b2b5794d983361d6f3ecd43
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 306280c4215cbad45a43c77bc2c32340
+  m_configObjects: {}

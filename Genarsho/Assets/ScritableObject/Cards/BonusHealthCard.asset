@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b825969b23c88654fb1ecffd07503072, type: 3}
+  m_Name: BonusHealthCard
+  m_EditorClassIdentifier: 
+  CardName: MaxHP
+  CardDescripton: This card give the user a small heal and more max health.
+  RareChance: 50
+  EpicChance: 50
+  Target: 0
+  type: 6
+  Ability: {fileID: 11400000, guid: 9bace21f8a0d0bb4785483de9855de58, type: 2}
+  IsUnique: 0
+  imageContent: {fileID: 21300000, guid: 660e2d0138a7bac419e0f85d9e674a61, type: 3}
+  imageIcon: {fileID: -1782457002, guid: ce38797ef764eaa46a4d42fd4926e1d2, type: 3}

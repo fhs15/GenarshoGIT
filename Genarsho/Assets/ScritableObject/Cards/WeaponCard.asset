@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b825969b23c88654fb1ecffd07503072, type: 3}
+  m_Name: WeaponCard
+  m_EditorClassIdentifier: 
+  CardName: Weapon
+  CardDescripton: This card gives the player who used it a new weapon.
+  RareChance: 50
+  EpicChance: 50
+  Target: 0
+  type: 5
+  Ability: {fileID: 11400000, guid: 403985099d02e934da33aafde7d35419, type: 2}
+  IsUnique: 0
+  imageContent: {fileID: 21300000, guid: a40658c6bf220b24897386caa2d19bc8, type: 3}
+  imageIcon: {fileID: 1579230221, guid: ce38797ef764eaa46a4d42fd4926e1d2, type: 3}
